@@ -26,8 +26,8 @@ It’s designed to be lightweight, interactive, and easy to use directly from th
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/BJS611/IP-CheckerBeta.git
-   cd IP-CheckerBeta
+   git clone https://github.com/BJS611/IP-Checker.git
+   cd IP-Checker
    ```
 
 2. Install the required dependencies:
@@ -41,7 +41,7 @@ It’s designed to be lightweight, interactive, and easy to use directly from th
 
 Run the program from your terminal:
 ```bash
-python3 ip_checker_beta.py
+python3 ip.py
 ```
 
 You will see an interactive menu like this:
